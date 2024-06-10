@@ -15,3 +15,7 @@ Proyecto Deep Learning: Segmentación automática de tumores cerebrales a partir
 Correo: 
 * isabella.ariza@udea.edu.co
 * luisa.zapatas@udea.edu.co
+
+Video - Presentación Entrega 02 
+
+https://www.youtube.com/watch?v=859-tcqa_LA
